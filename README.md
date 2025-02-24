@@ -1,5 +1,5 @@
 ### 👋 ¡Hola! Soy Gabriel Díaz  
-🎓 Licenciado en Ciencias de la Ingeniería, mención Modelamiento Matemático de Datos UOH | 💻 Apasionado por la programación y las matemáticas  
+👨‍💻 Ingeniería + Matemáticas + Datos 📊 | 💻 Apasionado por la programación y las matemáticas  
 
 📌 **Sobre mí:**  
 - 🔭 Actualmente trabajando en proyectos de ingeniería y tutorías.  
@@ -25,6 +25,7 @@
 - **Softwares and Tools**:
 
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
